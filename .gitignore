@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- MonoDev Studio Specifics ---
+dist/
+build/
+*.spec
+__pycache__/
+
+# Media Files (Don't upload your test renders)
+*.mp3
+*.mp4
+*.jpg
+*.png
+
+# Environment/Keys
+.env
+.venv/
+env/
+venv/

@@ -6,18 +6,21 @@ By leveraging the power of ElevenLabs for professional voiceovers and Pexels for
 
 
 🚀 Features
-Alex Voice Integration: Uses the premium ElevenLabs "Alex" voice for upbeat, engaging narration.
 
-Dynamic Asset Sourcing: Automatically pulls portrait-oriented visuals from Pexels based on your script’s theme.
+* Alex Voice Integration: Uses the premium ElevenLabs "Alex" voice for upbeat, engaging narration.
 
-Ambient Audio Mixing: Automatically detects and loops music.mp3 at a ducked volume (8%) to sit perfectly under the voiceover.
+* Dynamic Asset Sourcing: Automatically pulls portrait-oriented visuals from Pexels based on your script’s theme.
 
-Zero-Coding Interface: A professional "Dark Mode" GUI built with CustomTkinter for a seamless user experience.
+* Ambient Audio Mixing: Automatically detects and loops music.mp3 at a ducked volume (8%) to sit perfectly under the voiceover.
 
-Metadata Generation: Automatically suggests viral titles, descriptions, and tags for your video.
+* Zero-Coding Interface: A professional "Dark Mode" GUI built with CustomTkinter for a seamless user experience.
+
+* Metadata Generation: Automatically suggests viral titles, descriptions, and tags for your video.
 
 🛠️ Installation & Setup
+
 For Users (Download the .exe)
+
 Download the latest MonoDev Studio.exe from the Releases section.
 
 Place the .exe in its own folder.
@@ -27,6 +30,7 @@ Place the .exe in its own folder.
 Run the app. Note: You may need to click "More Info" -> "Run Anyway" on the Windows SmartScreen prompt as the app is independently developed.
 
 For Developers (Running from Source)
+
 Clone this repository.
 
 Install the required dependencies:
@@ -37,7 +41,9 @@ Run the application:
 
 PowerShell
 python master_app.py
+
 🔑 Requirements
+
 To use this software, you will need:
 
 ElevenLabs API Key: Get one at [suspicious link removed].
@@ -45,6 +51,7 @@ ElevenLabs API Key: Get one at [suspicious link removed].
 Pexels API Key: Get one at pexels.com/api.
 
 🛡️ Security & Trust
+
 Transparency is a priority for MonoDev Studio. Because this application is bundled into a standalone executable, some antivirus engines may flag it as a "false positive." You can review the full security scan here:
 
 View VirusTotal Scan Report

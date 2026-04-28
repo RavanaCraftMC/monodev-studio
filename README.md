@@ -1,5 +1,9 @@
 MonoDev Studio: Automated Shorts Creator v1.0
-MonoDev Studio is an AI-powered desktop application designed to transform raw scripts into high-quality vertical "Shorts" for YouTube and TikTok. By leveraging the power of ElevenLabs for professional voiceovers and Pexels for high-definition visual assets, it automates the tedious parts of content creation.
+
+MonoDev Studio is an AI-powered desktop application designed to transform raw scripts into high-quality vertical "Shorts" for YouTube and TikTok. 
+
+By leveraging the power of ElevenLabs for professional voiceovers and Pexels for high-definition visual assets, it automates the tedious parts of content creation.
+
 
 🚀 Features
 Alex Voice Integration: Uses the premium ElevenLabs "Alex" voice for upbeat, engaging narration.
